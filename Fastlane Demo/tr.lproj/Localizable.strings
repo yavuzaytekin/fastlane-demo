@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Fastlane Demo
+
+  Created by Yavuz Aytekin on 26.06.2024.
+  
+*/
+
+/* screen */
+"firstScreen" = "İlk Ekran";
+"secondScreen" = "İkinci Ekran";
+"goToSecond" = "İkinci Ekrana Git";
